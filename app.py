@@ -34,7 +34,7 @@ WAIT = 4
 REQUEST_MAX_TRY = 10
 
 # Your SMS-Activate API key
-API_KEY = "8e49fdB90d0209c085dd1df56cedf00e" #9b6b9eb50d0A30---------d9b7495b
+API_KEY = "592e17479ffd429d7A00A63237fcc9eA" #9b6b9eb50d0A30---------d9b7495b
 COUNTRY_CODE = "175" #i.e, Austrailian country code, See country table in sms-activate. I often use Australian phone number and it works almost always.
 
 sms_activate_url = "https://sms-activate.org/stubs/handler_api.php"
